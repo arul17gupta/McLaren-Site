@@ -137,3 +137,14 @@ overflow-x: hidden;
     display: flex;
     flex-direction: row;
 }
+
+.spider{
+   position: relative;
+}
+
+.720 {
+    color: white;
+    position: absolute;
+    z-index: 2;
+    font-size: 50px;
+}
